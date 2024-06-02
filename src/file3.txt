@@ -1,0 +1,9 @@
+main{
+    Nu num1 = 10 ;
+    SI (num1 < 11) {
+        imp ("HOLA " + num1);
+    };
+    SI (num1 != 10) {
+        imp ("WALI");
+    };
+}

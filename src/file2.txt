@@ -1,0 +1,6 @@
+main{
+    Nu num1 = 1 ;
+    Nu num2 = 3 ;
+    Nu resultado = num1 + num2 ;
+    imp (resultado) ;
+}

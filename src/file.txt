@@ -1,0 +1,10 @@
+main{
+    imp ("Hola como estas");
+    Nu df = 2;
+    Txt dl = df + "Literal";
+    SI (df == 2) {
+        PARA (Nu dlk = 0 : dlk < df: dlk++){
+            imp ("HOLa" + dlk);
+        };
+    };
+}
